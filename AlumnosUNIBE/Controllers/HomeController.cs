@@ -22,7 +22,7 @@ namespace AlumnosUNIBE.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Prueba01";
+            ViewBag.Message = "Vista de contacto";
 
             return View();
         }
