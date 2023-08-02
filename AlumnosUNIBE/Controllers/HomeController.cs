@@ -15,7 +15,7 @@ namespace AlumnosUNIBE.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Se realizarons los cambios en el controlador.";
 
             return View();
         }
